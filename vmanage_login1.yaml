@@ -1,0 +1,8 @@
+
+# vManage Connectivity Info
+vmanage_host: "152.22.242.15"
+vmanage_port: "10101"
+vmanage_username: "admin"
+vmanage_password: "@1Admin"
+site_ID: 110
+DataPolicyFwName: "DATA_FW"
